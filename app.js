@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alert("Welcome to my website ")
 
 var typeCat =prompt("Enter your cat's type from American ,Balinese,Chartreux ")
@@ -11,7 +12,6 @@ if(catWeigth >299 && catWeigth <501)
 {alert("perfect weight")}
 else{alert("Your cat needs more care  perfect weight between 300 to 500")}
 var catName=prompt("Enter your cat name")
-document("<h4>"+catName+"</h4>")
 
 
 
