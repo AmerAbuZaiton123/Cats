@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 alert("Welcome to my website ")
 
 var typeCat =prompt("Enter your cat's type from American ,Balinese,Chartreux ")
